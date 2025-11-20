@@ -37,7 +37,7 @@ dotenv
 
 🛠️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/PRINCEKUMAR/streamlit-voice-chatbot.git
+git clone https://github.com/Princekr-coder/streamlit-voice-chatbot.git
 cd streamlit-voice-chatbot
 
 2️⃣ Create a Virtual Environment
